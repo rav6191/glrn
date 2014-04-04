@@ -5,4 +5,9 @@ added in github
 added at local
 added in github to check push before pull
 added after pull at local
+<<<<<<< HEAD
 add at local while adding something else at server
+||||||| merged common ancestors
+=======
+added at git while adding something else at local
+>>>>>>> 3c302dd603b0ab8563d2f32a07b6de0c8f374d5f
